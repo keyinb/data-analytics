@@ -15,6 +15,7 @@ chardet==5.1.0
 charset-normalizer==2.1.1
 click==8.1.3
 comm @ file:///croot/comm_1671231121260/work
+confusion-matrix==0.1
 contourpy==1.0.7
 cryptography @ file:///croot/cryptography_1673298753778/work
 cssselect==1.2.0
@@ -67,6 +68,7 @@ nbformat @ file:///croot/nbformat_1670352325207/work
 nest-asyncio @ file:///croot/nest-asyncio_1672387112409/work
 newspaper3k==0.2.8
 nltk==3.8.1
+nose==1.3.7
 notebook @ file:///croot/notebook_1668179881751/work
 notebook_shim @ file:///croot/notebook-shim_1668160579331/work
 numpy==1.24.1
