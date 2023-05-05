@@ -60,7 +60,7 @@ lxml==4.9.2
 MarkupSafe @ file:///opt/conda/conda-bld/markupsafe_1654597864307/work
 matplotlib==3.6.3
 matplotlib-inline @ file:///opt/conda/conda-bld/matplotlib-inline_1662014470464/work
-mistune==0.8.4
+mistune==2.0.5
 nbclassic @ file:///croot/nbclassic_1668174957779/work
 nbclient @ file:///tmp/build/80754af9/nbclient_1650308366712/work
 nbconvert @ file:///croot/nbconvert_1668450669124/work
